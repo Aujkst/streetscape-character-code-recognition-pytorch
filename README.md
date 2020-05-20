@@ -1,2 +1,2 @@
-# streetscape-character-code-recognition-pytorch
-for submission
+街景字符编码识别
+===============
